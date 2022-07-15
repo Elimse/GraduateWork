@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_chat_button_background.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_chat_button_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_sendButton_background.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_sendButton_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_send_button_background.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_send_button_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_spisok_button_background.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/ic_spisok_button_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/drawable/spisok_button.xml" value="0.3828125" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/activity_chatlist.xml" value="0.3365036231884058" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/activity_dnevnik.xml" value="0.2957427536231884" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/activity_spisok_dnevnikov.xml" value="0.36666666666666664" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/create.xml" value="0.37083333333333335" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/create_dnevik.xml" value="0.37083333333333335" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/layout/rename_dnevnik.xml" value="0.36666666666666664" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/menu/context_menu_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/menu/menu_dnevnik.xml" value="0.36666666666666664" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/mipmap-anydpi-v26/ic_sendButton.xml" value="0.22135416666666666" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/mipmap-anydpi-v26/ic_send_button.xml" value="0.22135416666666666" />
+        <entry key="..\:/Diplomchik20/app/src/main/res/mipmap-anydpi-v26/ic_send_button_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

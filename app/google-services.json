@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172319802164",
+    "project_id": "literary-application",
+    "storage_bucket": "literary-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172319802164:android:5ce6f38185c811638d1b61",
+        "android_client_info": {
+          "package_name": "com.example.diplomchik20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172319802164-863eo691hopdkia086n345ficjodqssf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diplomchik20",
+            "certificate_hash": "26e55aa7b9ee5e5076c4390ffd3d55e7f6c3776b"
+          }
+        },
+        {
+          "client_id": "172319802164-b4ihj21hacuerfq3v91otipc476b18od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqdZASwlyf3qoSwhGyz_0WDKjzSTejcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172319802164-b4ihj21hacuerfq3v91otipc476b18od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

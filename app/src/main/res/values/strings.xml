@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diplomchik 2.0</string>
+    <string name="action_open">открыть</string>
+    <string name="action_save">сохранить</string>
+    <string name="createbtn">добавить</string>
+    <string name="cancel">отменить</string>
+    <string name="accept">принять</string>
+    <string name="edit">изменить</string>
+    <string name="delete">удалить</string>
+</resources>
